@@ -88,6 +88,7 @@ const Data = require("./models/register")
 client.on('guildMemberAdd', async (member) => {
 
 	const registerData = await Data.findOne({ guildId: member.guild.id });
+	await member.setNickname(`İsim | Yaş`)
 	await member.roles.add(registerData.unregRole);
 	const regAuth = await member.guild.roles.cache.get(registerData.regAuthRole)
 	const regChannel = await client.channels.cache.get(registerData.regChannel)
