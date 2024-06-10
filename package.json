@@ -1,0 +1,30 @@
+{
+  "name": "discord.js-v14-slash-kayit-botu",
+  "version": "1.0.0",
+  "description": "🌙 Discord.js V14 Slash komutlu kayıt botu",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justthendra/discord.js-v14-slash-kayit-botu.git"
+  },
+  "keywords": [
+    "Discord",
+    "Kayıt",
+    "Bot"
+  ],
+  "author": "Thendra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justthendra/discord.js-v14-slash-kayit-botu/issues"
+  },
+  "homepage": "https://github.com/justthendra/discord.js-v14-slash-kayit-botu#readme",
+  "dependencies": {
+    "cute-logs": "^0.0.1",
+    "discord.js": "^14.15.3",
+    "mongoose": "^8.4.1",
+    "nodemon": "^3.1.3"
+  }
+}
