@@ -34,7 +34,7 @@ sadece bu komutu yazarak bütün modülleri indirebilirsiniz, modüllerin isimle
 Repl.it hız limiti sorunları ve güvensizlikler nedeniyle her zaman VDS kullanmanızı öneririm.
 
 ## Sorunlar
-Bir sorununuz varsa paniğe kapılmayın! [Burada](https://github.com/justthendra/discord.js-v14-kayit-botu/issues) bir sorun oluşturun ve benim veya bazı kişilerin hatalarınıza yanıt vermesini bekleyin.
+Bir sorununuz varsa paniğe kapılmayın! [Burada](https://github.com/justthendra/discord.js-v14-slash-kayit-botu/issues) bir sorun oluşturun ve benim veya bazı kişilerin hatalarınıza yanıt vermesini bekleyin.
 Lütfen 'bozuk', 'hiç çalışmıyor' veya buna benzer yorumlar içeren bir konu oluşturmamaya çalışın.
 
 **Repo'ya yıldız eklerseniz sevinirim :)**
